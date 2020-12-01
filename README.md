@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi folks! 👋
+I'm Renjith Ravindranathan and I'm a Devops Engineer. Currently working at KPMG Singapore. You can find me at LinkedIn and Twitter.
 <!--
 **mysticrenji/mysticrenji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
