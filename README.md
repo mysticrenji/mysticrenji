@@ -1,5 +1,21 @@
 ### Hi folks! 👋
-I'm Renjith Ravindranathan and I'm a Devops Engineer. Currently working at KPMG Singapore. You can find me at LinkedIn and Twitter.
+
+## 🌱 I’m currently learning-
+- Azure 
+- Kubernetes
+- MLOps
+- Programming with memory constrained devices such as Raspberry Pi, Nvidia Jetson Nano
+
+## 📫 Blog-
+  You may checkout my blogs at below sites</br>
+- [**Medium**](https://renjithvr11.medium.com/)
+- [**Wordpress**](https://myownpicloud.wordpress.com/)
+
+## About Me
+A DevOps engineer by profession, Dad, Traveler & sometimes, like to tweak around stuff inside memory constrained devices on spare time. </br>
+- [**LinkedIn**](https://www.linkedin.com/in/rvr88/)
+- [**Twitter**](https://twitter.com/mysticrenji/)
+
 <!--
 **mysticrenji/mysticrenji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
