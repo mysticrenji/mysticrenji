@@ -1,7 +1,8 @@
 ### Hi folks! 👋
 
 ## 🌱 I’m currently learning-
-- Azure 
+- Azure
+- AWS
 - Kubernetes
 - MLOps / Data Services
 - Programming with memory constrained devices such as Raspberry Pi, Nvidia Jetson Nano
