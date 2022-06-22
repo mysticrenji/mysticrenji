@@ -11,6 +11,7 @@
   You may checkout my blogs at below sites</br>
 - [**Medium**](https://renjithvr11.medium.com/)
 - [**Wordpress**](https://myownpicloud.wordpress.com/)
+- [**Tealfeed**](https://tealfeed.com/renjithvr11/)
 
 ## About Me
 A DevOps engineer by profession, Dad, Traveler & sometimes, like to tweak around stuff inside memory constrained devices on spare time. </br>
