@@ -1,10 +1,11 @@
 ### Hi folks! 👋
 
-## 🌱 I’m currently learning-
+## 🌱 I’m currently working on-
 - Azure
 - AWS
 - Kubernetes
 - MLOps / Data Services
+- Platform Engineering
 - Programming with memory constrained devices such as Raspberry Pi, Nvidia Jetson Nano
 
 ## 📫 Blog-
