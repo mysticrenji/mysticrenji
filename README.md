@@ -6,7 +6,9 @@
 - Kubernetes
 - MLOps / Data Services
 - Platform Engineering
-- Programming with memory constrained devices such as Raspberry Pi, Nvidia Jetson Nano
+- Observability
+- Agentic AI
+- Programming with memory-constrained devices such as Raspberry Pi, Nvidia Jetson Nano
 
 ## 📫 Blog-
   You may checkout my blogs at below sites</br>
