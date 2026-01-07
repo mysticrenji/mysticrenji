@@ -17,7 +17,7 @@
 - [**Tealfeed**](https://tealfeed.com/renjithvr11/)
 
 ## About Me
-A DevOps engineer by profession, Dad, Traveler & sometimes, like to tweak around stuff inside memory constrained devices on spare time. </br>
+DevX/Platform Engineer by day, dad and traveler by heart. I have a soft spot for breathing new life into old tech. Currently calling the Netherlands home. </br>
 - [**LinkedIn**](https://www.linkedin.com/in/rvr88/)
 - [**Twitter**](https://twitter.com/mysticrenji/)
 
