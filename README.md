@@ -8,6 +8,7 @@
 - Platform Engineering
 - Observability
 - Agentic AI
+- LLMOps
 - Programming with memory-constrained devices such as Raspberry Pi, Nvidia Jetson Nano
 
 ## 📫 Blog-
